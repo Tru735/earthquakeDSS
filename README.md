@@ -244,7 +244,7 @@ python train_bert.py
 
 ## 📌 Author
 
-[Your Name]
+mazha naam Tejas aahe
 
 ---
 
