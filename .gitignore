@@ -1,7 +1,7 @@
 data/
+data/*.pkl
 *.bin
 *.txt
 *.csv
-*.pkl
 *.Identifier
 *.log
